@@ -1,2 +1,11 @@
-background:red 
-
+body {
+background:url(pin.png)
+} 
+h1 {
+ font-family:'Gill Sans MT';
+ text-align: center;
+}
+h3{
+    font-family: Tahoma;
+    font-weight: 400;
+}
